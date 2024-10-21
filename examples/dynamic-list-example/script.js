@@ -1,7 +1,7 @@
 // Selecting DOM elements
 const addItemButton = document.getElementById('addItemButton');
-const removeItemButton = document.getElementById('removeItemButton');
-const highlightItemsButton = document.getElementById('highlightItemsButton');
+const removeItemButton = document.getElementById("mainHeading");
+const highlightItemsButton = document.getElementById("textInput");
 const itemList = document.getElementById('itemList');
 const itemInput = document.getElementById('itemInput');
 
